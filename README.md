@@ -16,7 +16,8 @@ Defined Language ==> Defined your language..." menu. In this dialog, click on
 the "Import..." button and, in the Open dialog that appears, select the
 'EcScriptUDL.xml' file from your cloned copy of this repository. Click on the
 "Open" button to close the Open dialog. Click on the X in the top-right corner
-of the User Defined Language dialog to close it.
+of the User Defined Language dialog to close it. Restart Nodepad++. Verify
+there is now an "EcScript" menu item under the "Language" menu.
 
 Comments and Suggestions
 ------------------------
@@ -51,6 +52,7 @@ License
 Version History
 ---------------
 
+* v1.1 (2019-12-18) Added `rrt_plan` and `find_solution` param highlighting
 * v1.0 (2019-12-10) Initial release
 
 [1]: https://github.com/Energid/npp-ecscript
