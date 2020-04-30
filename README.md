@@ -29,7 +29,7 @@ License
 
     MIT License
 
-    Copyright (c) 2019 Energid Technologies
+    Copyright (c) 2019-2020 Energid Technologies
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
@@ -52,6 +52,7 @@ License
 Version History
 ---------------
 
+* v1.2 (2020-04-30) Removed highlighting for deprecated `pose_seq` and `interp_pose_seq` commands.
 * v1.1 (2019-12-18) Added `rrt_plan` and `find_solution` param highlighting
 * v1.0 (2019-12-10) Initial release
 
