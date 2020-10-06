@@ -52,6 +52,7 @@ License
 Version History
 ---------------
 
+* v2.0 (2020-10-06) Updated syntax for Actin 6.0 release.
 * v1.2 (2020-04-30) Removed highlighting for deprecated `pose_seq` and `interp_pose_seq` commands.
 * v1.1 (2019-12-18) Added `rrt_plan` and `find_solution` param highlighting
 * v1.0 (2019-12-10) Initial release
